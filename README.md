@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/118147715/203200842-fea7c373-e36e-4bed-b10b-3a6e7800f022.png) favorite song <3❤❤❤
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qU9mHegkTc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BxE4FqsDD1Ot4YuBXwAPp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Hobbies 
 - Gaming
