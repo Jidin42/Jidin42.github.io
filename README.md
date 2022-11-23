@@ -35,6 +35,5 @@ Studying At Ateneo De Naga University
 - FRENZYYYYYYYYYY<3333333
 - Reaver>>>>>>>>EVERY OTHER SKIN
 
-# bat di nalang ako ahhsahhahahah :')
-pwede naman ako diba :')
+
 
